@@ -1,0 +1,8 @@
+{
+  "name": "Nexus Prompt Architect",
+  "description": "A high-end, professional tool designed to generate comprehensive, full-stack website production prompts for AI Studio and no-code builders.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
